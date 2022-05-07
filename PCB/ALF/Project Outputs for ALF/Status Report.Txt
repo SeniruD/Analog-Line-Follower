@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ALF.PrjPcb]
+   Generated File[ErrorPCB.RUL]
+   Generated File[ErrorPCB.EXTREP]
+   Generated File[ErrorPCB.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:04:10 AM On 4/3/2022
